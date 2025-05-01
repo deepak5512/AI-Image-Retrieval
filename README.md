@@ -2,6 +2,9 @@
 # AI Image Retrieval
 
 The AI Image Retrieval Project is an image search application designed to provide efficient and accurate retrieval of images based on user queries.
+
+https://github.com/user-attachments/assets/15212f7f-c4d1-4d95-8432-c0a6e79d024c
+
 ## Technologies Used
 
 #### **Frontend**
